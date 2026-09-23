@@ -10,7 +10,7 @@ total = student1 + student2
 # Difference
 difference = student1 - student2
 
-# Scale student 1
+
 scaled = 2 * student1
 
 print("Student 1:", student1)
